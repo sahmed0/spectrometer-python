@@ -58,10 +58,16 @@ The firmware directly manipulates the following GPIOs based on the specific NMR 
 | **GP22** | `DET_SWITCH_PIN` | **RX Isolation:** Disconnects the receiver during high-voltage pulses. |
 | **GP28** | `ADC_PIN` | **RX Input:** Analog input from the low-noise pre-amplifier. |
 
-## 📄 License   
-Copyright © 2026 Sajid Ahmed. All Rights Reserved.
+## Licence & Usage
 
-This repository is intended solely for portfolio review and recruitment purposes. By accessing this repository, you acknowledge the following terms:
-- View Only: Permission is granted to view the source code for the purpose of evaluating my professional skills and experience.
-- No Unauthorised Use: No permission is granted to copy, modify, distribute, or use this code for any personal, commercial, or educational project.
-- No AI Training: Use of this source code for the purpose of training machine learning models or generative AI is strictly prohibited.
+Copyright (c) 2026 Sajid Ahmed. **All Rights Reserved.**
+
+This repository is strictly for **portfolio review and recruitment purposes**.
+
+### Use Constraints:
+* **No Unauthorised Distribution:** You may not redistribute, sublicense, or sell any part of this source code.
+* **No Commercial Use:** This software may not be used for any commercial or production purposes.
+* **AI & Machine Learning Restriction:** Use of this source code, in whole or in part, for the purpose of training, fine-tuning, or validating machine learning or artificial intelligence models (including but not limited to LLMs and generative AI) is **strictly prohibited** without express written permission from the author.
+* **Viewing & Forking:** Permission is granted to view the source code and fork the repository on GitHub for the purpose of personal review only.
+
+The software is provided **" as is "**, without warranty of any kind.

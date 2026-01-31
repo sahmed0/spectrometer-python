@@ -44,7 +44,7 @@ The accompanying GUI performs advanced signal processing to extract the Larmor f
 ![FID_2](images/FID-FFT.png)
 
 ### Carr-Purcell-Meiboom-Gill (CPMG)
-![CPMG](images/cpmg.png)
+![CPMG](images/CPMG.png)
 ![CPMG_2](images/T2.png)
 ![CPMG_3](images/CPMG-FFT.png)
 

@@ -71,4 +71,6 @@ This repository is strictly for **portfolio review and recruitment purposes**.
 * **Viewing & Forking:** Permission is granted to view the source code and fork the repository on GitHub for the purpose of personal review only.
 
 The software is provided **" as is "**, without warranty of any kind.
+
 *See the [LICENSE](LICENSE) file for the full legal text.*
+
